@@ -17,7 +17,7 @@ const Hero = () => {
           
           <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)', maxWidth: '600px' }}>
             Spécialiste en statistiques et en informatique décisionnelle. 
-            Actuellement en BUT Sciences des Données, je suis à la recherche d'une <strong>alternance pour 2025-2026</strong> pour transformer vos données en décisions stratégiques.
+            Actuellement en fin de BUT Sciences des Données, je suis à la recherche d'une <strong>alternance pour mon Master (2026-2028)</strong> pour transformer vos données en décisions stratégiques.
           </p>
           
           <div className="flex gap-4" style={{ marginTop: '1rem' }}>

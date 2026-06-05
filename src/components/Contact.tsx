@@ -10,7 +10,7 @@ const Contact = () => {
 
       <div className="glass-panel" style={{ padding: '3rem', maxWidth: '800px', margin: '0 auto', textAlign: 'center' }}>
         <p style={{ fontSize: '1.2rem', marginBottom: '2rem' }}>
-          Je suis activement à la recherche d'une alternance pour l'année <strong>2025-2026</strong>. 
+          Je suis activement à la recherche d'une alternance pour mon <strong>Master (2026-2028)</strong>. 
           N'hésitez pas à me contacter pour discuter de vos besoins en données.
         </p>
 
